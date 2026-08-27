@@ -77,8 +77,8 @@ export const projects = [
     description: "A platform for my self to do my work and learn new things.",
     image: "/images/",
     technologies: ["UX/UI Design", "HTML", "CSS", "JavaScript"],
-    demo: "",
-    github: "",
+    demo: "https://myuniverse-eight.vercel.app/",
+    github: "https://github.com/samsonaddissa247-creator/myuniverse",
     
   },
   {
