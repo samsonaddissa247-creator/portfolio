@@ -9,9 +9,6 @@ function Footer() {
         <p className="font-body text-sm text-muted">
           &copy; {year} {portfolioData.name}. All rights reserved.
         </p>
-        <p className="font-mono text-xs text-muted/70">
-          Built with React &amp; Tailwind CSS
-        </p>
       </div>
     </footer>
   );
