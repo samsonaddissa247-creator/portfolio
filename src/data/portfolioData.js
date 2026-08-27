@@ -90,6 +90,15 @@ export const projects = [
     github: "https://vercel.com/samsonaddissa247-8522s-projects?repo=https%3A%2F%2Fgithub.com%2Fsamsonaddissa247-creator%2FExpense-Tracker",
     
   },
+  {
+    title: "Driving Safety Simulator",
+    description: "A mini game that makes people know road signs and safety",
+    image: "/images/",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    demo: "https://myuniverse-eight.vercel.app/",
+    github: "https://github.com/samsonaddissa247-creator/myuniverse",
+    
+  },
 ];
 
 // Certificates. Add a new object to add a new certificate card.
