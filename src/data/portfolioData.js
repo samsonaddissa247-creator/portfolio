@@ -2,7 +2,7 @@ import React from "react";
 
 export const portfolioData = {
   name: "Addissa Samson",
-  role: "Developer & Designer",
+  role: "Software Developer & Product Designer",
   tagline:
     "Designing and building digital experiences that solve real-world problems.",
 
