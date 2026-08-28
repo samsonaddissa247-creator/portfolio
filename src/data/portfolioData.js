@@ -48,7 +48,7 @@ export const projects = [
     title: "Vivid horizon",
     description:
       "A landing page for a tourism company, showcasing destinations and travel packages with a focus on user experience and visual appeal.",
-    image: "/images/Screenshot_20260723_102912_Files by Google.png",
+    image: "/Vivid horizon.jpg",
     technologies: ["UX/UI Design", "HTML", "CSS", "JavaScript", "React"],
     demo: "https://vivid-ofl-landing-page.vercel.app/",
     github: "https://vercel.com/samsonaddissa247-8522s-projects?repo=https%3A%2F%2Fgithub.com%2Fsamsonaddissa247-creator%2FVividOFL",
@@ -57,7 +57,7 @@ export const projects = [
     title: "SuperFert Landing page",
     description:
       "A landing page for a fertilizer company, showcasing products and services with a focus on user experience and visual appeal.",
-    image: "/images/Superfert Landing Page (1).png",
+    image: "/SuperFert Landing page.png",
     technologies: ["UX/UI Design", "HTML", "CSS", "JavaScript", "React"],
     demo: "https://super-fert-fertilizer.vercel.app/",
     github: "https://vercel.com/samsonaddissa247-8522s-projects?repo=https%3A%2F%2Fgithub.com%2Fsamsonaddissa247-creator%2FSuper-Fert-Fertilizer",
@@ -66,7 +66,7 @@ export const projects = [
     title: "DBMS",
     description:
       "A database management system project that allows users to create, read, update, and delete records in a structured database.",
-    image: "/images/Body.png",
+    image: "/DBMS.png",
     technologies: ["UX/UI Design", "Python", "Django", "SQLite"],
     demo: "https://dbms-learn-ofl.vercel.app/",
     github: "https://vercel.com/samsonaddissa247-8522s-projects?repo=https%3A%2F%2Fgithub.com%2Fsamsonaddissa247-creator%2Fdbms-learn-ofl",
@@ -75,7 +75,7 @@ export const projects = [
   {
     title: "Nexus",
     description: "A platform for my self to do my work and learn new things.",
-    image: "",
+    image: "/Nexus.png",
     technologies: ["UX/UI Design", "HTML", "CSS", "JavaScript"],
     demo: "https://myuniverse-eight.vercel.app/",
     github: "https://github.com/samsonaddissa247-creator/myuniverse",
@@ -84,7 +84,7 @@ export const projects = [
   {
     title: "Expense tracker",
     description: "A web application that allows users to track their expenses, categorize them, and visualize spending patterns over time.",
-    image: "/images/Screenshot (21).png",
+    image: "/Expense tracker.png",
     technologies: ["UX/UI Design", "HTML", "CSS", "JavaScript"],
     demo: "https://expense-tracker-sand-ten-91.vercel.app/",
     github: "https://vercel.com/samsonaddissa247-8522s-projects?repo=https%3A%2F%2Fgithub.com%2Fsamsonaddissa247-creator%2FExpense-Tracker",
@@ -93,7 +93,7 @@ export const projects = [
   {
     title: "Driving Safety Simulator",
     description: "A mini game that makes people know road signs and safety",
-    image: "/images/roadsimulator.png",
+    image: "/Driving Safety Simulator.png",
     technologies: ["HTML", "CSS", "JavaScript"],
     demo: "https://roadsimulator.vercel.app/",
     github: "https://github.com/samsonaddissa247-creator/road",
