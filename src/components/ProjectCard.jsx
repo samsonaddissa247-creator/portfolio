@@ -32,15 +32,24 @@ function ProjectCard({ project }) {
     <div className="bg-surface border border-border rounded-xl overflow-hidden hover:border-accent/60 transition-colors group">
       {/* Project image preview */}
       <div className="aspect-video bg-surface2 overflow-hidden">
-        <img
-          src={project.image}
-          alt={`${project.title} preview`}
-          loading="lazy"
-          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-          onError={(e) => {
-            e.currentTarget.style.display = "none";
-          }}
-        />
+        {project.image ? (
+          <img
+            src={project.image}
+            alt={`${project.title} preview`}
+            loading="lazy"
+            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            onError={(e) => {
+              e.currentTarget.style.display = "none";
+              e.currentTarget.nextElementSibling.hidden = false;
+            }}
+          />
+        ) : null}
+        <div
+          hidden={Boolean(project.image)}
+          className="flex h-full items-center justify-center px-6 text-center font-display text-xl text-muted"
+        >
+          {project.title}
+        </div>
       </div>
 
       <div className="p-6">
